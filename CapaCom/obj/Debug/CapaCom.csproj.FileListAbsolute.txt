@@ -1,0 +1,11 @@
+C:\programas visual\Restaurante\CapaCom\bin\Debug\CapaCom.dll
+C:\programas visual\Restaurante\CapaCom\bin\Debug\CapaCom.pdb
+C:\programas visual\Restaurante\CapaCom\bin\Debug\CapaDatos.dll
+C:\programas visual\Restaurante\CapaCom\bin\Debug\CapaEntidad.dll
+C:\programas visual\Restaurante\CapaCom\bin\Debug\CapaDatos.pdb
+C:\programas visual\Restaurante\CapaCom\bin\Debug\CapaEntidad.pdb
+C:\programas visual\Restaurante\CapaCom\obj\Debug\CapaCom.csproj.AssemblyReference.cache
+C:\programas visual\Restaurante\CapaCom\obj\Debug\CapaCom.csproj.CoreCompileInputs.cache
+C:\programas visual\Restaurante\CapaCom\obj\Debug\CapaCom.csproj.CopyComplete
+C:\programas visual\Restaurante\CapaCom\obj\Debug\CapaCom.dll
+C:\programas visual\Restaurante\CapaCom\obj\Debug\CapaCom.pdb

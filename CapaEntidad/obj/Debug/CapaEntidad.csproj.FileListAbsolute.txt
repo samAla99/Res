@@ -1,0 +1,6 @@
+C:\programas visual\Restaurante\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\programas visual\Restaurante\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\programas visual\Restaurante\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\programas visual\Restaurante\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\programas visual\Restaurante\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\programas visual\Restaurante\CapaEntidad\obj\Debug\CapaEntidad.pdb
